@@ -1,0 +1,12 @@
+.vscode
+client/web/node_modules
+client/web/package-lock.json
+client/web2/node_modules
+client/web2/package-lock.json
+client/web3/node_modules
+client/web3/package-lock.json
+client/web4/node_modules
+client/web4/package-lock.json
+server/build/
+server/test/build/
+server/muduo/lib/
