@@ -40,7 +40,7 @@
 ### 数据库初始化
 
 ```bash
-mysql -u root -p < server/0voice_chatroom.sql
+mysql -u root -p < server/chatroom.sql
 ```
 
 ### 编译服务端
